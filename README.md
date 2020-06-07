@@ -12,6 +12,7 @@ Seriously, it may ratelimit you very hard.  This is a primitive bot, so no check
 (I will test this soon if I am able get the courage to do it on my older servers.)
 
 Things I may add in the future:
+- Specify what channel you want to download from
 - Multiple users downloading (would very likely be ratelimited)
 - Improve consistency of the bot's outputs, and make it a litte more human readable
 - Better options for formatting the output to your liking
