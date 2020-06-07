@@ -13,6 +13,7 @@ Seriously, it may ratelimit you very hard.  This is a primitive bot, so no check
 
 Things I may add in the future:
 - Multiple users downloading (would very likely be ratelimited)
+- Improve consistency of the bot's outputs, and make it a litte more human readable
 - Better options for formatting the output to your liking
 - More verbose outputs in the terminal, optional changes
 - Is CLI possible? (I don't think it is)
