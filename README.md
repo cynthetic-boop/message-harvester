@@ -7,7 +7,7 @@ be within the same directory as the bot.py file is in, so I would recommend runn
 run the command a lot.  Also make sure to run the bot from the command line (Powershell, CMD, Terminal, Bash, etc.) so that you can see
 exactly when and where the bot's commands are run.
 
-**BEWARE OF PULLING FROM LARGE OR OLD SERVERS(EVEN RELATIVELY SMALL ONES), IT MAY CAUSE RATELIMITING** 
+**BEWARE OF PULLING OFTEN, ESPECIALLY FROM LARGE OR OLD SERVERS(EVEN RELATIVELY SMALL ONES), IT MAY CAUSE RATELIMITING** 
 Seriously, it may ratelimit you very hard.  This is a primitive bot, so no checks are put into place for this, you need to be aware.
 (I will test this soon if I am able get the courage to do it on my older servers.)
 
