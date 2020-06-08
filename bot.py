@@ -8,7 +8,7 @@ from discord.ext import commands
 from dotenv import load_dotenv
 
 load_dotenv()
-token = os.getenv('DISCORD_TOKEN')
+token = os.getenv('TOKEN')
 bot = commands.Bot(command_prefix='h!')
 #TODO Change logging level whenever merging to master ##########################
 logging.basicConfig(level=logging.WARN)
